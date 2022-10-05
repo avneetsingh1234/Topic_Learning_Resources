@@ -54,6 +54,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
     - WEB.DEV - https://web.dev/learn/css
     - Loading Animation - https://loading.io/
     - Css Visual Guide - https://cssreference.io/
+    - Css garden game - https://cssgridgarden.com/
+    - Css flexbox game - https://flexboxfroggy.com/
 
 - HTML :
     - Learn-HTML - https://www.w3schools.com/html/default.asp
@@ -294,8 +296,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | Tailwind CSS                       | The Net Ninja         | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
 | CSS (Beginner)                     | Traversy Media        | [click here](https://www.youtube.com/watch?v=yfoY53QXEnI)                              |
 | HTML/CSS/Javascript (Beginners)    | CodeWithHarry         | [click here](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)     |
-
-
+| HTML/CSS/Javascript (Beginners)    | Anuj Bhaiya           | [click here](https://www.youtube.com/channel/UCuTa8evA9UsVvJzEkCtogvg/playlists)       |
 
 
 ## ⚡ Frontend Frameworks/Library
@@ -306,6 +307,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)                              |
 | React JS (Beginner to Advance) | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
 | React JS Crash Course          | Traversy Media    | [click here](https://www.youtube.com/watch?v=A71aqufiNtQ)                              |
+| React JS (Beginner)            | Code evolution    | [click here]([https://www.youtube.com/watch?v=vIRBSI-elUM](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3))                              |
 | React Redux                    | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | Vue JS                         | The Net Ninja     | [click here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) |
 | Angular JS (Beginner)          | Codevolution      | [click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
